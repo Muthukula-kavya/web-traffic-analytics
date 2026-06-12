@@ -86,6 +86,3 @@ The project includes:
 ## Conclusion
 
 This project demonstrates how website traffic data can be analyzed using Python and data visualization techniques. The insights obtained from traffic patterns, bounce rates, and engagement metrics can help organizations better understand user behavior and improve website performance.
-
----
-Developed as part of an Data Analytics Internship Project.
